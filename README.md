@@ -1,3 +1,31 @@
+## ⚖️ Legal Disclaimer
+
+> [!CAUTION]
+> **This software is provided for educational and research purposes only.** The author(s) assume no liability or responsibility for any unauthorized, illegal, or unethical use of this project.
+
+### 1. No Liability
+Under no circumstances shall the project owner, authors, or contributors be held liable for any direct, indirect, incidental, special, exemplary, or consequential damages. This includes, but is not limited to:
+* **Financial loss** or loss of profits
+* **Data corruption**, loss, or breach
+* **System downtime**, service interruptions, or hardware damage
+* **Legal consequences** resulting from your deployment or usage
+
+### 2. "As-Is" Basis
+This project is provided **"as is" and "as available"**, without warranty of any kind, express or implied. This includes warranties of merchantability, fitness for a particular purpose, or non-infringement. You assume all operational and technical risks by executing or modifying this code.
+
+### 3. "Gray Area" Use Cases
+If this software is deployed in ambiguous, high-risk, or production environments, the user bears **100% of the responsibility** to ensure compliance with local laws, corporate policies, and third-party terms of service. 
+
+
+> [!WARNING]
+> **AI development disclosure:** This project was developed with assistance from the free versions of ChatGPT, Grok, and Claude (LLMs), with the user providing ideas and testing while the AIs and user collaboratively suggested, generated, reviewed, and refined code and solutions.
+
+
+> [!WARNING]
+> **This project is in early development.** Expect bugs, missing features, and frequent breaking changes.
+
+---
+
 # Gutenberg Author Downloader
 
 Download Project Gutenberg books by author name.
